@@ -16,4 +16,5 @@ async def amireallyalive(alive):
                     f"`My Peru Owner`: {DEFAULTUSER}\n◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆\n"
                      "**Database Status: Databases functioning normally!**\n◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆\nAlways with you, my peru master!\n`"
                     "**Bot Created By:- @KarmaHacx\n**"
+                     
                      "[Deploy this userbot Now](https://github.com/Karma-goku/KarmaBot)")
