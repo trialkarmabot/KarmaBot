@@ -1,7 +1,7 @@
 """Fetch App Details from Playstore.
 .app <app_name> to fetch app details.
 .appr <app_name>  to fetch app details with Xpl0iter request link.
-  © [KARMA](http://t.me/amnd33p)"""
+  © [KARMA](@KarmaHacx)"""
 # Ported by Karma Karma
 import requests
 import bs4
@@ -32,7 +32,7 @@ async def apk(e):
         app_details += "\n\n<code>Developer :</code> <a href='"+app_dev_link+"'>"+app_dev+"</a>"
         app_details += "\n<code>Rating :</code> "+app_rating.replace("Rated ", "⭐ ").replace(" out of ", "/").replace(" stars", "", 1).replace(" stars", "⭐ ").replace("five", "5")
         app_details += "\n<code>Features :</code> <a href='"+app_link+"'>View in Play Store</a>"
-        app_details += "\n\n===> KARMA Bot <==="
+        app_details += "\n\n===> 『𝙆𝘼𝙍𝙈𝘼』 <==="
         await e.edit(app_details, link_preview = True, parse_mode = 'HTML')
     except IndexError:
         await e.edit("No result found in search. Please enter **Valid app name**")
