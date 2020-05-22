@@ -12,7 +12,8 @@ PREV_REPLY_MESSAGE = {}
 
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
-USER_BOT_WARN_ZERO = "`You were spamming my peru master's inbox, henceforth your retarded lame ass has been blocked by my master's userbot.` **Now GTFO, i'm playing minecraft** "
+USER_BOT_WARN_ZERO = ("[─────▄████▀█▄\n───▄█████████████████▄\n─▄█████.▼.▼.▼.▼.▼.▼▼▼▼\n▄███████▄.▲.▲▲▲▲▲▲▲▲\n████████████████████▀▀]\n\n"
+                    "`You Were Spamming My Peru Master's Inbox, Henceforth Your Retarded Lame Ass Has Been Blocked By My Master's Userbot.` **NOW GO TO HELL**")
 USER_BOT_NO_WARN = ("[┈╭━━╮╭━━╮┈┈┈┈┈ \n┈┃╭╮┗┻━━┻━╮┈┈┈ \n┈┃╰┓╭━╮╭━╮┃┈┈┈ \n┈╰━┓┃▇┃┃▇┃┃┈┈┈ \n┈┈┈┃╱▔▔▔▔▔▔▔▇┈ \n┈┈┈┃▏┏┳┳┳┳┳━┛┈ \n┈┈┈┃╲╰┻┻┻┻┻┓┈┈](tg://user?id=729596789)\n\n"
                     "`Hello, This is KARMA SECURITY SERVICE for Peru users only.You have found your way here to my master,`"
                     f"{DEFAULTUSER}'s` inbox.\n\n"
