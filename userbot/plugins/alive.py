@@ -15,6 +15,6 @@ async def amireallyalive(alive):
                       "**Telethon version:- 6.9.0**\n◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆\n**Python: 3.7.3**\n◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆\n"
                     f"`My Peru Owner`: {DEFAULTUSER}\n◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆\n"
                      "**Database Status: Databases functioning normally!**\n◆ ▬▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬▬ ◆\nAlways with you, my peru master!\n`"
-                    "**Bot Created By:- @KarmaHacx\n**"
+                    "**Bot Created By:- @KarmaHacx\n\n**"
                      
                      "[Deploy this userbot Now](https://github.com/Karma-goku/KarmaBot)")
