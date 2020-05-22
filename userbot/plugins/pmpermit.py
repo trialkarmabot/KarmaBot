@@ -13,7 +13,7 @@ PREV_REPLY_MESSAGE = {}
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
 USER_BOT_WARN_ZERO = ("─────▄████▀█▄\n───▄█████████████████▄\n─▄█████.▼.▼.▼.▼.▼.▼▼▼▼\n▄███████▄.▲.▲▲▲▲▲▲▲▲\n████████████████████▀▀\n\n"
-                    "**`This is KarmaBot Artificial Intelligence.**\n"
+                    "**`This is KarmaBot Artificial Intelligence.\n**"
                     "'You Were Spamming My Peru Master's Inbox, Henceforth Your Retarded Lame Ass Has Been Blocked By My Master's Userbot.\n\n"
                     "**'NOW GO TO HELL!**")
 USER_BOT_NO_WARN = ("[┈╭━━╮╭━━╮┈┈┈┈┈ \n┈┃╭╮┗┻━━┻━╮┈┈┈ \n┈┃╰┓╭━╮╭━╮┃┈┈┈ \n┈╰━┓┃▇┃┃▇┃┃┈┈┈ \n┈┈┈┃╱▔▔▔▔▔▔▔▇┈ \n┈┈┈┃▏┏┳┳┳┳┳━┛┈ \n┈┈┈┃╲╰┻┻┻┻┻┓┈┈](tg://user?id=729596789)\n\n"
